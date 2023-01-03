@@ -19,7 +19,6 @@ public class minimum_deletions {
                 else{
                     break;
                 }
-                // return count;
             }
             //    return -1;
                if(count==0)return -1;
