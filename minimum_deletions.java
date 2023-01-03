@@ -17,7 +17,6 @@ public class minimum_deletions {
                 if(res%n[i]!=0)
                 count++;
                 else{
-                    count=0;
                     break;
                 }
                 // return count;
