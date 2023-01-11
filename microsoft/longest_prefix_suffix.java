@@ -1,3 +1,4 @@
+package microsoft;
 import java.util.*;
 public class longest_prefix_suffix {
         public static String longestPrefix(String s) {

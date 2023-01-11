@@ -1,3 +1,4 @@
+package microsoft;
 import java.util.*;
 
 public class combinations {

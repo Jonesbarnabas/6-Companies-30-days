@@ -1,3 +1,4 @@
+package microsoft;
 import java.util.*;
     public class substring_all_three_charcter {
     public static int numberOfSubstrings(String s) {

@@ -1,3 +1,4 @@
+package microsoft;
 import java.util.*;
 class rotatefunctions {
     public static int maxRotateFunction(int[] nums) {

@@ -1,3 +1,4 @@
+package microsoft;
 import java.util.*;
 public class bulls_cows {
         public static String getHint(String secret, String guess) {

@@ -1,3 +1,4 @@
+package microsoft;
 import java.util.*;
 public class Airplane_seat {
     public static double nthPersonGetsNthSeat(int n) {

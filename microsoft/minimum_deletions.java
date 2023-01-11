@@ -1,3 +1,4 @@
+package microsoft;
 import java.util.*;
 public class minimum_deletions {
         static int gcd(int a,int b){
